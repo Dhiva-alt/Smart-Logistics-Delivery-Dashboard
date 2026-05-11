@@ -288,16 +288,14 @@ Possible future enhancements:
 
 
 ## Route Analysis Dashboard
-![Route Analysis Dashboard](<img width="1389" height="760" alt="Screenshot 2026-05-10 221232" src="https://github.com/user-attachments/assets/5b0b637a-514a-404a-8504-203044ec95c8" />
-)
+![Route Analysis Dashboard] (<img width="1389" height="760" alt="Screenshot 2026-05-10 221232" src="https://github.com/user-attachments/assets/f4c21017-5f5b-4ee3-a1e4-8aebce62f9a6" />  )
+
 
 ## Vehicle Performance Dashboard
-![Vehicle Performance Dashboard](<img width="1387" height="738" alt="Screenshot 2026-05-11 170551" src="https://github.com/user-attachments/assets/7c4aad36-1d47-47a7-b6e8-51cc52883896" />
-)
+![Vehicle Performance Dashboard] (<img width="1387" height="738" alt="Screenshot 2026-05-11 170551" src="https://github.com/user-attachments/assets/428bfe65-4c33-4b94-99fb-b3c337162a27" />)
 
 ## Prediction Dashboard
-![Prediction Dashboard](<img width="1382" height="749" alt="Screenshot 2026-05-10 221319" src="https://github.com/user-attachments/assets/b5faeacb-8209-4aee-95f3-e63f06fcf75a" />
-) 
+![Prediction Dashboard] (<img width="1382" height="749" alt="Screenshot 2026-05-10 221319" src="https://github.com/user-attachments/assets/cea73d41-05fd-4730-83d7-9416805cc4a4" />) 
 
 ---
 
