@@ -284,17 +284,21 @@ Possible future enhancements:
 # Screenshots
 
 ## Overview Dashboard
-![Overview Dashboard](C:\Users\Divashini PC\OneDrive\画像\Screenshots\Screenshot 2026-05-10 221206.png)
+![Overview Dashboard](<img width="1423" height="745" alt="Screenshot 2026-05-10 221206" src="https://github.com/user-attachments/assets/d3019653-6bd4-43fd-b540-5832c484954c" />
+)
 
 
 ## Route Analysis Dashboard
-![Route Analysis Dashboard](C:\Users\Divashini PC\OneDrive\画像\Screenshots\Screenshot 2026-05-10 221232.png)
+![Route Analysis Dashboard](<img width="1389" height="760" alt="Screenshot 2026-05-10 221232" src="https://github.com/user-attachments/assets/9b82abfb-d905-45bf-83b3-f58f6498a7fc" />
+)
 
 ## Vehicle Performance Dashboard
-![Vehicle Performance Dashboard](C:\Users\Divashini PC\OneDrive\画像\Screenshots\Screenshot 2026-05-11 170551.png)
+![Vehicle Performance Dashboard](<img width="1387" height="738" alt="Screenshot 2026-05-11 170551" src="https://github.com/user-attachments/assets/eef1ba49-20c9-4354-ad87-d16c9640a1d6" />
+)
 
 ## Prediction Dashboard
-![Prediction Dashboard](C:\Users\Divashini PC\OneDrive\画像\Screenshots\Screenshot 2026-05-10 221319.png)
+![Prediction Dashboard](<img width="1382" height="749" alt="Screenshot 2026-05-10 221319" src="https://github.com/user-attachments/assets/817eb66a-7250-412d-96c3-997a0c21decf" />
+)
 
 ---
 
